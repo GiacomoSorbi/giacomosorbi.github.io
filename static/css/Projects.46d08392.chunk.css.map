@@ -1,0 +1,1 @@
+{"version":3,"sources":["Projects.css"],"names":[],"mappings":"AAAA,eACE,YAAa,CACb,qBACF","file":"Projects.46d08392.chunk.css","sourcesContent":[".projects-list {\n  display: flex;\n  flex-direction: column;\n}\n"]}

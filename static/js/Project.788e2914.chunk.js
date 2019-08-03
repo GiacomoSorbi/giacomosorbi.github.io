@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{34:function(e,n,t){},38:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a);t(34);n.default=function(e){var n=e.match.params.id;return r.a.createElement("div",null,r.a.createElement("h1",null,"Hi, I am the Project Screen for project ",n))}}}]);
+//# sourceMappingURL=Project.788e2914.chunk.js.map

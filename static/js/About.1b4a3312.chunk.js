@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{30:function(n,e,t){},34:function(n,e,t){"use strict";t.r(e);var u=t(0),a=t.n(u);t(30);e.default=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Hi, I am the About Screen"))}}}]);
-//# sourceMappingURL=About.1b4a3312.chunk.js.map

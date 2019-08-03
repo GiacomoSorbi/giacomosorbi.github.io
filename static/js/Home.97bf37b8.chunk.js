@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{32:function(e,n,t){},37:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a);t(32);n.default=function(){return c.a.createElement("div",null,c.a.createElement("h1",null,"Hi, I am the Home Screen"))}}}]);
+//# sourceMappingURL=Home.97bf37b8.chunk.js.map

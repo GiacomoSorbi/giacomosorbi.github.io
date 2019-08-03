@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{33:function(a,e,n){},39:function(a,e,n){"use strict";n.r(e);var t=n(0),p=n.n(t),c=(n(33),[{name:"pippi",path:"pippi"},{name:"pappa",path:"pappa"},{name:"nanna",path:"nanna"}]),i=n(6);e.default=function(){return p.a.createElement("div",null,p.a.createElement("h1",null,"Hi, I am the Projects Screen"),p.a.createElement("div",{className:"projects-list"},c.map(function(a){return p.a.createElement(i.b,{to:"/projects/".concat(a.path)},a.name)})))}}}]);
+//# sourceMappingURL=Projects.439d86e4.chunk.js.map
