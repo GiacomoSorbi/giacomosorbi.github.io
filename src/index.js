@@ -23,6 +23,11 @@ const Projects = React.lazy(() =>
     /* webpackChunkName: "Projects", webpackPrefetch: true */ './routes/Projects'
   ),
 )
+const Project = React.lazy(() =>
+  import(
+    /* webpackChunkName: "Project", webpackPrefetch: true */ './routes/Project'
+  ),
+)
 
 ReactDOM.render(
   <Router>
@@ -32,6 +37,7 @@ ReactDOM.render(
           <Route exact path='/' component={Home} />
           <Route exact path='/about' component={About} />
           <Route exact path='/projects' component={Projects} />
+          <Route path='/projects/:id' component={Project} />
           <Route exact path='/contacts' component={Contacts} />
         </Switch>
       </React.Suspense>
